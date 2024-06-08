@@ -28,3 +28,6 @@ struct LseWaterMeter : Driver
             return {};
         }
     };
+
+private:
+};
